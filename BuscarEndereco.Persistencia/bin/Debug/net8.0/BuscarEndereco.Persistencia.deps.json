@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BuscarEndereco.Persistencia/1.0.0": {
+        "dependencies": {
+          "BuscarEndereco.Core": "1.0.0"
+        },
+        "runtime": {
+          "BuscarEndereco.Persistencia.dll": {}
+        }
+      },
+      "BuscarEndereco.Core/1.0.0": {
+        "runtime": {
+          "BuscarEndereco.Core.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BuscarEndereco.Persistencia/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BuscarEndereco.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

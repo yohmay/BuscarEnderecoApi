@@ -1,0 +1,15 @@
+C:\BuscarEndereco\BuscarEndereco.Persistencia\bin\Debug\net8.0\BuscarEndereco.Persistencia.deps.json
+C:\BuscarEndereco\BuscarEndereco.Persistencia\bin\Debug\net8.0\BuscarEndereco.Persistencia.dll
+C:\BuscarEndereco\BuscarEndereco.Persistencia\bin\Debug\net8.0\BuscarEndereco.Persistencia.pdb
+C:\BuscarEndereco\BuscarEndereco.Persistencia\bin\Debug\net8.0\BuscarEndereco.Core.dll
+C:\BuscarEndereco\BuscarEndereco.Persistencia\bin\Debug\net8.0\BuscarEndereco.Core.pdb
+C:\BuscarEndereco\BuscarEndereco.Persistencia\obj\Debug\net8.0\BuscarEndereco.Persistencia.csproj.AssemblyReference.cache
+C:\BuscarEndereco\BuscarEndereco.Persistencia\obj\Debug\net8.0\BuscarEndereco.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\BuscarEndereco\BuscarEndereco.Persistencia\obj\Debug\net8.0\BuscarEndereco.Persistencia.AssemblyInfoInputs.cache
+C:\BuscarEndereco\BuscarEndereco.Persistencia\obj\Debug\net8.0\BuscarEndereco.Persistencia.AssemblyInfo.cs
+C:\BuscarEndereco\BuscarEndereco.Persistencia\obj\Debug\net8.0\BuscarEndereco.Persistencia.csproj.CoreCompileInputs.cache
+C:\BuscarEndereco\BuscarEndereco.Persistencia\obj\Debug\net8.0\BuscarEn.73B013B9.Up2Date
+C:\BuscarEndereco\BuscarEndereco.Persistencia\obj\Debug\net8.0\BuscarEndereco.Persistencia.dll
+C:\BuscarEndereco\BuscarEndereco.Persistencia\obj\Debug\net8.0\refint\BuscarEndereco.Persistencia.dll
+C:\BuscarEndereco\BuscarEndereco.Persistencia\obj\Debug\net8.0\BuscarEndereco.Persistencia.pdb
+C:\BuscarEndereco\BuscarEndereco.Persistencia\obj\Debug\net8.0\ref\BuscarEndereco.Persistencia.dll

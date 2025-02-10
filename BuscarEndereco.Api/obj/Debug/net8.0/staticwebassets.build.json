@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "6uwlPm1fF5w4Wq2cRIQOo0M2F2dXRWvTb46wg1vH9b0=",
+  "Source": "BuscarEndereco.Api",
+  "BasePath": "_content/BuscarEndereco.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "BuscarEndereco.Api.Controllers.BuscarEnderecoController",
+    "Method": "SalvarEndereco",
+    "RelativePath": "api/BuscarEndereco/SalvarEndereco",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "endereco",
+        "Type": "BuscarEndereco.Core.Modelos.Endereco",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
